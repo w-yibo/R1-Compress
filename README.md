@@ -1,3 +1,5 @@
 # R1-Compress
 
-code will be released soon...
+The official implementation of R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search.
+
+Code will be released soon...
