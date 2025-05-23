@@ -35,8 +35,8 @@ Code will be released soon... -->
 
 
 <sup>3</sup>[Tsinghua University](https://www.tsinghua.edu.cn/en/), <sup>2</sup>[Sun Yat-sen University](), <sup>3</sup>[Didichuxing Co. Ltd](),  <sup>4</sup>[Nanyang Technological University](https://www.ntu.edu.sg/)
-
-<sup>*</sup>Equal Contribution,       <sup>✉️</sup>Corresponding Author
+  
+<sup>✉️</sup>Corresponding Author
 
 </h5>
 </div>
