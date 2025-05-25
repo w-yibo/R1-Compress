@@ -9,7 +9,6 @@ Code will be released soon... -->
 
 <h1> R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search </h1>
 
-<h5 align="center"> If you find this project useful, please give us a star🌟.
 
 <h5 align="center"> 
 
