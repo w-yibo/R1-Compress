@@ -42,7 +42,7 @@ Code will be released soon... -->
 
 
 ## News
-- [x] **`Sep 23, 2025.`** R1-Compress get accepted by NeurIPS 2025 Foundations of Reasoning in Language Models Workshop.
+- [x] **`Sep 23, 2025.`** R1-Compress get accepted by NeurIPS 2025@Foundations of Reasoning in Language Models Workshop!
 - [x] **`May 23, 2025.`** We release our paper in [arxiv](https://arxiv.org/abs/2505.16838).
 
 
