@@ -7,7 +7,7 @@ Code will be released soon... -->
 
 <div align="center">
 
-<h1> R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search </h1>
+<h1> [NeurIPS 2025@FoRLM] R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search </h1>
 
 
 <h5 align="center"> 
