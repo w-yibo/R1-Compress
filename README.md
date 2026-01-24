@@ -50,12 +50,10 @@ Code will be released soon... -->
 ## Citation
 If you find this repository is useful, please star🌟 this repo and cite🖇️ our paper.
 ```bibtex
-@misc{wang2025r1compress,
-      title={R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search}, 
-      author={Yibo Wang and Li Shen and Huanjin Yao and Tiansheng Huang and Rui Liu and Naiqiang Tan and Jiaxing Huang and Kai Zhang and Dacheng Tao},
-      year={2025},
-      eprint={2505.16838},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
+@article{wang2025r1,
+  title={R1-compress: Long chain-of-thought compression via chunk compression and search},
+  author={Wang, Yibo and Luo, Haotian and Yao, Huanjin and Huang, Tiansheng and He, Haiying and Liu, Rui and Tan, Naiqiang and Huang, Jiaxing and Cao, Xiaochun and Tao, Dacheng and others},
+  journal={arXiv preprint arXiv:2505.16838},
+  year={2025}
 }
 ```
